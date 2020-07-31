@@ -6,9 +6,9 @@ Themes: Light and Dark
 
 Other features:
 
-  · Modified scroll-bar
+    · Modified scroll-bar
   
-  · Modified header using clip-path
+    · Modified header using clip-path
   
 ------------------------------------------
 
@@ -18,6 +18,6 @@ Temas: Claro y Oscuro
 
 Otras funcionalidades:
 
-  · Barra de desplazamiento modificada
+    · Barra de desplazamiento modificada
   
-  · Header modificado usando clip-path
+    · Header modificado usando clip-path
