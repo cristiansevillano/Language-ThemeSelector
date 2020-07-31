@@ -4,7 +4,7 @@ Languages: Spanish and English
 
 Themes: Light and Dark
 
-Other features:
+    Other features:
 
     · Modified scroll-bar
   
@@ -16,7 +16,7 @@ Idiomas: Español e Inglés
 
 Temas: Claro y Oscuro
 
-Otras funcionalidades:
+    Otras funcionalidades:
 
     · Barra de desplazamiento modificada
   
