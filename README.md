@@ -2,10 +2,12 @@
 Idiomas: 
 
     · Español
-    
     · Inglés
 
-Temas: Claro y Oscuro
+Temas: 
+
+    · Claro
+    · Oscuro
 
 Características:
 
@@ -17,9 +19,15 @@ Características:
     
 ------------------------------------------
 
-Languages: Spanish and English
+Languages: 
 
-Themes: Light and Dark
+    · Spanish
+    · English
+
+Themes: 
+
+    · Light
+    · Dark
 
 Features:
  
