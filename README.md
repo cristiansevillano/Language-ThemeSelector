@@ -1,6 +1,8 @@
 # Language-ThemeSelector
 Idiomas: 
+
     · Español
+    
     · Inglés
 
 Temas: Claro y Oscuro
